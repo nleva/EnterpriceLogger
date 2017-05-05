@@ -21,10 +21,9 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/nleva/DtoCommon</url>
-		<connection>scm:git:https://github.com/nleva/DtoCommon.git</connection>
-		<developerConnection>scm:git:https://github.com/nleva/DtoCommon.git</developerConnection>
-	  <tag>DtoCommon-0.0.4</tag>
+		<url>https://github.com/nleva/EnterpriceLogger</url>
+		<connection>scm:git:https://github.com/nleva/EnterpriceLogger.git</connection>
+		<developerConnection>scm:git:https://github.com/nleva/EnterpriceLogger.git</developerConnection>
   </scm>
 
 	<developers>
