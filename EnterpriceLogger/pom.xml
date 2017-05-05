@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ru.send-to.log</groupId>
   <artifactId>EnterpriceLogger</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <name>Enterprice Logger</name>
   <description>Logger with cdi event bus</description>
 <url>http://github.com/nleva/DtoCommon</url>
@@ -24,6 +24,7 @@
 		<url>https://github.com/nleva/EnterpriceLogger</url>
 		<connection>scm:git:https://github.com/nleva/EnterpriceLogger.git</connection>
 		<developerConnection>scm:git:https://github.com/nleva/EnterpriceLogger.git</developerConnection>
+    <tag>EnterpriceLogger-0.0.1</tag>
   </scm>
 
 	<developers>
